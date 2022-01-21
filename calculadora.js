@@ -12,6 +12,8 @@ function calculadora (valor1, valor2){
 
 
     console.log(soma, multiplacacao, divisao, sub, resto);    
+    console.log("###########");    
+
 }
 
 
